@@ -17,3 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Live Demo
 
 [View Live Demo](https://github-repository-explorer-tan.vercel.app/)
+## Git Workflow
+
+This project uses Git and GitHub for version control. Development work is organized using feature branches and merged into the main branch through Pull Requests.
